@@ -1,2 +1,2 @@
-# Kaggle_Competitions
+# Kaggle Competitions
 Codes on my Kaggle competitions.
